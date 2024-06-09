@@ -1,5 +1,4 @@
 1. git remote -v
-<br>
 2. git branch - for checking a branch
 <br>
 3. git branch -m name - for changing name of branch
